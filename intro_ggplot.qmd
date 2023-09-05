@@ -1,0 +1,48 @@
+---
+title: "ggplot"
+format: html
+editor: visual
+echo: false
+output: false
+message: false
+---
+
+```{r}
+#| label: setup
+#| message: false
+#| output: false
+library(tidyverse)
+library(ggpubr)
+```
+
+## Intro ggplot
+
+```{r}
+ggplot(data = mtcars, mapping = aes(x = disp, y = mpg)) +
+  geom_point() + 
+  geom_smooth(level = 0.99) +
+  geom_smooth(method = "lm", colour = "red", se = FALSE)
+```
+
+```{r}
+gg1 <-   ggplot(data = mtcars, mapping = aes(x = disp, y = mpg)) +
+  geom_point()
+
+```
+
+```{r}
+gg2 <-   ggplot(data = mtcars) +
+  geom_point(mapping = aes(x = disp, y = mpg))
+```
+
+```{r}
+ggarrange(gg1, gg2, labels = c("mapping = aes in ggplot", "mapping = aes in geom_*"),
+          nrow = 2)
+```
+
+```{r}
+ggplot() +
+  #geom_point has mapping as first argument. We have to use named arguments
+  #or switch their order
+  geom_point(data = mtcars, mapping = aes(x = disp, y = mpg))
+```
