@@ -1,14 +1,38 @@
 ---
 title: "git_branch"
-format: html
+format: docx
 editor: visual
 ---
 
 ## introduksjon
 
+Much research has been done on how the teachers and pupils experienced the transition from physical school to home education.
+A survey carried out by "Education Research" indicates that distance education involved more work and became an additional burden for the teachers (Gilje et al. 2021).
+In the survey, there were 727 teachers who participated from a total of 138 different municipalities in Norway.
+Of this, 96% were employees at public schools and the remaining 5% at private schools.
+Several of the teachers point out that it was difficult to distinguish between work and free time, and several of the teachers had to deal with home education for their own children in addition to teaching their own pupils.
+Decisive success factors here were access to digital resources and own home office situation.
+The survey shows that the students have experienced great trust from the teachers and flexibility in teaching.
+But there is also an experience of unfair assessment.
+More precisely, the students missed having collaboration with their fellow students (Gilje et al. 2021).
+
 ## litteraturstudie
 
 ## analyse
+
+hei hei hei 0iewbe0oiebvr eifoeei
+
+# versjon 1
+
+```{r}
+plot(mtcars$hp, mtcars$mpg)
+```
+
+# Verjson 2
+
+```{r}
+plot(cars)
+```
 
 ## resultater
 
