@@ -1,6 +1,6 @@
 ---
 title: "git_branch"
-format: html
+format: docx
 editor: visual
 ---
 
@@ -19,6 +19,10 @@ More precisely, the students missed having collaboration with their fellow stude
 ## litteraturstudie
 
 ## analyse
+
+hei hei hei
+0iewbe0oiebvr
+eifoeei
 
 ## resultater
 
