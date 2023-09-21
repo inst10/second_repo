@@ -1,0 +1,19 @@
+---
+title: "git_branches"
+format: html
+editor: visual
+---
+
+## introduksjon
+
+Innovation has proven to be an important driving force for progress in the society we live in.
+Now we will take a closer look at how innovation has affected the education system when society has faced crises, especially during the corona crisis.
+In light of the corona crisis, which was a global health crisis, schools and educational institutions were forced to reconsider how to teach and learn when physical presence in schools was prohibited.
+
+## litteraturstudie
+
+## analyse
+
+## resultater
+
+## konklusjoner
