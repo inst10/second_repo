@@ -20,9 +20,13 @@ More precisely, the students missed having collaboration with their fellow stude
 
 ## analyse
 
-hei hei hei
-0iewbe0oiebvr
-eifoeei
+hei hei hei 0iewbe0oiebvr eifoeei
+
+# versjon 1
+
+```{r}
+plot(mtcars$hp, mtcars$mpg)
+```
 
 ## resultater
 
